@@ -93,6 +93,3 @@ This project is licensed under the **MIT License**.
 🌐 Live Demo - [https://pixabey-clone.vercel.app](https://pixabey-clone.vercel.app)
 
 
-
-Chahoge mai wo kar doon?
-```
